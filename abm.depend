@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1570644219 source:c:\users\user\desktop\abm\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1570644219 source:c:\users\user\desktop\abm\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	"input.h"
+	"socio.h"
+	"informes.h"
+
+1570644219 c:\users\user\desktop\abm\input.h
+
+1570646382 c:\users\user\desktop\abm\socio.h
+
+1570644219 c:\users\user\desktop\abm\informes.h
+
+1570645453 source:c:\users\user\desktop\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"socio.h"
+	"informes.h"
+	"input.h"
+
